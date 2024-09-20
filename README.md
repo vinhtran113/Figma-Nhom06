@@ -2,8 +2,10 @@
 
 ## UC1. Đăng ký
 
-| **Use Case ID**       | UC_01                                                                                                             |
+| **Thuộc Tính**       | **Chi Tiết**                                                                                                      |
 |----------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Use Case ID**       | UC_01                                                                                                             |
+
 | **Name**              | Đăng ký                                                                                                           |
 | **Goal**              | Cho phép người dùng đăng ký tài khoản để thực hiện đầy đủ chức năng trong ứng dụng.                               |
 | **Actor(s)**          | Visitor                                                                                                           |

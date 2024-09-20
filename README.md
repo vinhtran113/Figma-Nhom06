@@ -1,11 +1,25 @@
 # Hình giao diện
 
-!(image/onboarding.png)
+## Onboarding
+
+![Onboarding](image/onboarding.png)
 ![Onboarding](image/onboarding1.png)
 ![Onboarding](image/onboarding2.png)
 ![Onboarding](image/onboarding3.png)
 ![Onboarding](image/onboarding4.png)
 ![Onboarding](image/onboarding5.png)
+
+## Sign up, Login anđ Reset Password 
+
+![Lg](image/lg.png)
+![Lg](image/lg1.png)
+![Lg](image/lg2.png)
+![Lg](image/lg3.png)
+![Lg](image/lg4.png)
+![Lg](image/lg5.png)
+![Lg](image/lg6.png)
+![Lg](image/lg7.png)
+
 
 
 # Mô tả Usecase

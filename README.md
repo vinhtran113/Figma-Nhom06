@@ -80,3 +80,16 @@
 | **Alternative Flow**  | 5.1. Actors nhấn vào “Đăng nhập” → UC_02 (A) (Đăng nhập).                                                       |
 | **Exception Flow**    |  8.1. Một trong các trường thông tin bị bỏ trống thì hiển thị thông báo yêu cầu Actors nhập đầy đủ thông tin → Quay lại bước 5. <br> 8.2. Một trong các trường thông tin không đúng định dạng thì hiển thị thông báo yêu cầu nhập lại → Quay lại bước 5. <br> 8.3. Email đã tồn tại trong hệ thống thì hiển thị thông báo yêu cầu thay đổi email → Quay lại bước 4. <br> 12.1. Một trong các trường thông tin bị bỏ trống thì hiển thị thông báo yêu cầu Actors nhập đầy đủ thông tin → Quay lại bước 9. <br> 12.2. Một trong các trường thông tin không yêu cầu thì hiển thị thông báo yêu cầu nhập lại → Quay lại bước 9. |
 
+### UC2. Đăng nhập
+
+| **Thuộc Tính**       | **Chi Tiết**                                                                                                      |
+|----------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Use Case ID**      | UC_02 (A)                                                                                                        |
+| **Name**             | Đăng nhập                                                                                                         |
+| **Goal**             | Cho phép Actors đăng nhập vào ứng dụng.                                                                          |
+| **Actor(s)**         | Customer                                                                                                         |
+| **Pre-Condition(s)** | Actors sở hữu tài khoản trong hệ thống.                                                                          |
+| **Post-Condition(s)**| Actors đăng nhập thành công vào ứng dụng.                                                                        |
+| **Main Flow**        | 1. Tại trang chủ, Actors nhấn vào biểu tượng tài khoản. <br> 2. Ứng dụng chuyển sang trang “Thông tin cá nhân”. <br> 3. Actors nhấn vào nút “Đăng nhập”. <br> 4. Ứng dụng chuyển hướng đến trang đăng nhập bao gồm nút "Đăng nhập" và các trường thông tin trống bao gồm: Email, Mật Khẩu. <br> 5. Actors nhập các trường thông tin. <br> 6. Actors nhấn nút "Đăng nhập". <br> 7. Hệ thống kiểm tra thông tin Actors nhập. <br> 8. Ứng dụng chuyển hướng Actors đến trang chủ. |
+| **Alternative Flow** | 4.1. Actors nhấn vào “Quên mật khẩu?” → UC_03 (Quên mật khẩu). <br> 4.2. Actors nhấn vào “Đăng ký” → UC_01 (Đăng ký). |
+| **Exception Flow**   | 7.1. Một trong các trường thông tin bắt buộc bị bỏ trống thì hiển thị thông báo yêu cầu Actors nhập đầy đủ thông tin bắt buộc → Quay lại bước 4. <br> 7.2. Một trong các trường thông tin không đúng định dạng thì hiển thị thông báo yêu cầu nhập lại → Quay lại bước 4. <br> 7.3. Email hoặc mật khẩu không khớp với dữ liệu trong hệ thống thì hiển thị thông báo yêu cầu nhập lại email hoặc mật khẩu → Quay lại bước 4. <br> 7.4. Tài khoản Actors đã bị khóa thì hiển thị thông báo tài khoản Actors đã bị khóa → Quay lại bước 4. |

@@ -9,7 +9,7 @@
 ![Onboarding](image/onboarding4.png)
 ![Onboarding](image/onboarding5.png)
 
-## Sign up, Login anđ Reset Password 
+## Sign up, Login and Reset Password 
 
 ![Lg](image/lg.png)
 ![Lg](image/lg1.png)
@@ -20,11 +20,53 @@
 ![Lg](image/lg6.png)
 ![Lg](image/lg7.png)
 
+## Dashboard
+
+![Db](image/db.png)
+![Db](image/db1.png)
+![Db](image/db2.png)
+![Db](image/db3.png)
+![Db](image/db4.png)
+![Db](image/db5.png)
+
+## Workout Tracker
+
+![Wt](image/wt.png)
+![Wt](image/wt1.png)
+![Wt](image/wt2.png)
+![Wt](image/wt3.png)
+![Wt](image/wt4.png)
+![Wt](image/wt5.png)
+
+## Meal Planner
+
+![Mp](image/mp.png)
+![Mp](image/mp1.png)
+![Mp](image/mp2.png)
+![Mp](image/mp3.png)
+
+## Sleep Tracker
+
+![St](image/st.png)
+![St](image/st1.png)
+![St](image/st2.png)
+
+## Progress Tracker
+
+![Pt](image/pt.png)
+![Pt](image/pt1.png)
+![Pt](image/pt2.png)
+![Pt](image/pt3.png)
+![Pt](image/pt4.png)
 
 
 # Mô tả Usecase
 
-## UC1. Đăng ký
+## Tổng quan usecase
+
+![Usecase](image/Usecase.png)
+
+### UC1. Đăng ký
 
 | **Thuộc Tính**       | **Chi Tiết**                                                                                                      |
 |----------------------|-------------------------------------------------------------------------------------------------------------------|

@@ -1,6 +1,6 @@
 # Hình giao diện
 
-![Onboarding](image/onboarding.png)
+!(image/onboarding.png)
 ![Onboarding](image/onboarding1.png)
 ![Onboarding](image/onboarding2.png)
 ![Onboarding](image/onboarding3.png)

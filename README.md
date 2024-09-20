@@ -1,3 +1,13 @@
+# Hình giao diện
+
+![Onboarding](image/onboarding.png)
+![Onboarding](image/onboarding1.png)
+![Onboarding](image/onboarding2.png)
+![Onboarding](image/onboarding3.png)
+![Onboarding](image/onboarding4.png)
+![Onboarding](image/onboarding5.png)
+
+
 # Mô tả Usecase
 
 ## UC1. Đăng ký
